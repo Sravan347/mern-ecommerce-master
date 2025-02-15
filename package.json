@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashraf-kabir/mern-ecommerce.git"
+    "url": "https://github.com/Sravan347/mern-ecommerce-master"
   },
   "keywords": [],
-  "author": "Ashraf Kabir",
+  "author": "sravan ks",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.7.7",
